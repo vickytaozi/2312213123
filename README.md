@@ -40,5 +40,8 @@ http://www.jianshu.com/u/2bc6eda9f4eb
 期待你的互粉哦！
 
 前端胖籽 ∣一个有用的公众号
+
 https://github.com/vickytaozi/zt_vicky/blob/master/weixin.jpg
+
+
 长按，识别二维码，加关注
